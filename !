@@ -2,14 +2,12 @@
 
 <html>
   <head>
-<<<<<<< HEAD
-=======
     <meta name="Diego" content="author">
     <link rel="stylesheet" type="text/css" href="estilos.css">
->>>>>>> 01afbf2b1011b34812461b913ce24275c85740cb
     <title>Plantilla del proyecto</title>
   </head>
   <body>
-   :<!-- TODO: Completar -->
+	<h1>Plantilla HTML para el proyecto bicicletas</h1>
+        <!-- TODO: Completar -->
   </body>
 </html>
